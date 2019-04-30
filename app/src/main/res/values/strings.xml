@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="network_message">Please connect to a valid network connection.</string>
+
+    <!-- Labels -->
+    <string name="back_label">Back</string>
+    <string name="next_label">Next</string>
+
+    <!-- Recipe Content Description -->
+
+
+</resources>
